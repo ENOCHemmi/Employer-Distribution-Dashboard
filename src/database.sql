@@ -1,7 +1,4 @@
-/* © 2023 Tushar Aggarwal. All rights reserved. 
-@https://github.com/tushar2704/
-Employee-Distribution Database
-*/
+
 CREATE DATABASE Employees_Distribution;
 
 DROP TABLE IF EXISTS employees;
