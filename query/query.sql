@@ -1,7 +1,4 @@
-/* © 2023 Tushar Aggarwal. All rights reserved. 
-@https://github.com/tushar2704/
-Employees-Distribution
-*/
+
 
 
 --Query 1)What is the Gender breakdown of employees in the Company?
